@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sufian</h1>
-<h3 align="center">Student Developer | Flutter & Firebase | Game Development</h3>
+<h3 align="center">Student Developer | Flutter & Firebase | Unity Game Development</h3>
 
 <p align="center">
   <a href="https://github.com/YOUR_USERNAME">
@@ -31,11 +31,10 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
-#### Other Technologies
-
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 ![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
+
+#### Other Technologies
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ---
