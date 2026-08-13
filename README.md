@@ -79,7 +79,7 @@ I'm particularly interested in:
 
 <p align="left">
   <a href="https://github.com/thedisage">
-    <img height="180em" src="https://github-stats-extended.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=react&include_all_commits=true"/>
-    <img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&langs_count=8&theme=react"/>
+    <img height="180em" src="https://github-stats-extended.vercel.app/api?username=thedisage&show_icons=true&theme=react&include_all_commits=true"/>
+    <img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=thedisage&layout=compact&langs_count=8&theme=react"/>
   </a>
 </p>
